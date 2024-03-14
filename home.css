@@ -164,7 +164,7 @@
         text-align: center;
         font-size: .8em;
         color: rgb(255, 255, 255);
-        background-image: url(baner.jpg);
+        background-image:url(baner.jpg);
         background-size:contain;
         background-position-y:80px ;
         background-repeat: no-repeat;
